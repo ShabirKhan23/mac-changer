@@ -1,4 +1,4 @@
-<img src='banner2.png' width=400>
+<img src='banner2.PNG' width=400>
 
 # Mac-Changer
 
